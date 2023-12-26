@@ -1,3 +1,8 @@
 module.exports = {
-  extends: ['@nkzw'],
+  extends: ["@nkzw"],
+  settings: {
+    react: {
+      version: "detect",
+    },
+  },
 };
