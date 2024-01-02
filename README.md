@@ -2,7 +2,7 @@
 
 _Minimal, sensible defaults, fast._
 
-Read [the blog post about this template](https://cpojer.net/posts/fastest-frontend-tooling-in-2022).
+Bsed on [the blog post about this template](https://cpojer.net/posts/fastest-frontend-tooling-in-2022).
 
 ## Technologies
 
@@ -10,9 +10,7 @@ Read [the blog post about this template](https://cpojer.net/posts/fastest-fronte
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwind](https://tailwindcss.com/)
-- [pnpm](https://pnpm.io/ja/) (_Optional_)
-
-![screenshot of `App.tsx`](./screenshot.png)
+- [pnpm](https://pnpm.io/ja/)
 
 ## Setup
 
@@ -21,8 +19,6 @@ Read [the blog post about this template](https://cpojer.net/posts/fastest-fronte
 - `pnpm dev` for development.
 - Use `pnpm test` to run tests.
 - `pnpm build` for production builds.
-
-_Note: You can install `pnpm` via `homebrew` on macOS: `brew install pnpm`._
 
 ## Protips for the fastest Developer Experience
 
